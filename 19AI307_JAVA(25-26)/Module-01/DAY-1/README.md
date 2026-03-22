@@ -6,7 +6,7 @@
 ## AIM:
 
 
-## ALGORITHM :
+## ALGORITHM :A
 1.	
 2.
 3.
